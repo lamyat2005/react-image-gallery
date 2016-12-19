@@ -6,7 +6,7 @@
   "scripts": {
     "start": "gulp dev",
     "build": "gulp build",
-    "postinstall": "gulp build"
+    "prepublish": "gulp build"
   },
   "repository": {
     "type": "git",
